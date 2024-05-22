@@ -1,0 +1,1 @@
+# Rezolvare-Sistem-de-Ecua-ii-Liniare-cu-Generare-Aleatorie
